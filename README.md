@@ -1,3 +1,3 @@
 # quintoCdemo
 hola estoy cambiando el readme jojo
-Los pelados no merecen derechos
+Los pelados no merecen derechos, atentamente los chinos
