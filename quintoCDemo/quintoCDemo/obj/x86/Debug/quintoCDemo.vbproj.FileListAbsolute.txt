@@ -1,0 +1,8 @@
+C:\Users\Julian\Desktop\quintoCdemo\quintoCDemo\quintoCDemo\bin\Debug\quintoCDemo.exe
+C:\Users\Julian\Desktop\quintoCdemo\quintoCDemo\quintoCDemo\bin\Debug\quintoCDemo.pdb
+C:\Users\Julian\Desktop\quintoCdemo\quintoCDemo\quintoCDemo\bin\Debug\quintoCDemo.xml
+C:\Users\Julian\Desktop\quintoCdemo\quintoCDemo\quintoCDemo\obj\x86\Debug\quintoCDemo.Resources.resources
+C:\Users\Julian\Desktop\quintoCdemo\quintoCDemo\quintoCDemo\obj\x86\Debug\quintoCDemo.vbproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\quintoCdemo\quintoCDemo\quintoCDemo\obj\x86\Debug\quintoCDemo.exe
+C:\Users\Julian\Desktop\quintoCdemo\quintoCDemo\quintoCDemo\obj\x86\Debug\quintoCDemo.xml
+C:\Users\Julian\Desktop\quintoCdemo\quintoCDemo\quintoCDemo\obj\x86\Debug\quintoCDemo.pdb
